@@ -1,6 +1,6 @@
 # Copyright/Disclaimer:
 
-This was found on https://www.uninformativ.de/ several years ago. So all credit belongs to Peter Hofmann (https://github.com/vain)
+This was found on https://www.uninformativ.de/ several years ago. So most probably all credit belongs to Peter Hofmann (https://github.com/vain)
 
 
 # Examples
