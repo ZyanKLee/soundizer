@@ -1,6 +1,6 @@
 # Copyright/Disclaimer:
 
-This was found on https://www.uninformativ.de/ several years ago. So most probably all credit belongs to Peter Hofmann (https://github.com/vain)
+This was found on [uninformativ.de](https://www.uninformativ.de/blog/postings/2012-06-21/0/POSTING-de.html) several years ago and is a re-upload of https://github.com/vain/bin-pub/blob/master/soundizer . All credit belongs to Peter Hofmann (https://github.com/vain)
 
 
 # Examples
